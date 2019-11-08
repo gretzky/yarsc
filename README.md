@@ -1,6 +1,6 @@
-# yet another react state container
+# yarsc
 
-now in 65 lines or less!
+yet another react state container. now in 65 lines or less!
 
 ## usage
 
