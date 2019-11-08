@@ -1,0 +1,9 @@
+{
+  "name": "yarsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.11.0"
+  }
+}
